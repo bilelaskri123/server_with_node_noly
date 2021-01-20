@@ -1,4 +1,4 @@
-# server_with_node_noly
+# server_with_node_only
 create a server with nodeJS only and handle request with Buffer also return some response
 
 in this small project just i want to handle e request with nodeJS (that mean i don't use expressJS) 
