@@ -9,5 +9,5 @@ in this small project just i want to handle e request with nodeJS (that mean i d
 # to install modules
 npm install
 
-#to run server
+# to run server
 npm start
